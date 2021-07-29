@@ -1,0 +1,78 @@
+<HTML>
+<HEAD>
+	<TITLE>RESUME
+	</TITLE>
+</HEAD>
+<BODY>
+<DIV align="center"><h1><i>Swapnil's Resume</i></h1>
+</DIV>
+<h2>VIT Graduate</h2>
+
+<h3>Bio-</h3>
+I'm a python coder, poet, and love reading books.
+<p>
+<h3><b>Projects:</b></h3>
+<ol type="1">
+	<li>
+		Speed breaker accelerator
+	</li>
+	<li>
+	Bloodbank management
+	</li>
+	<li> Audiobook on desktop</li>
+</ol>
+</p>
+
+<hr>
+
+<p>
+<h3><b>Education:</b></h3><br>
+<TABLE BORDER="2" WIDTH="50%">
+<DIV align="center">
+<TR>
+<TH>institute</TH>
+<TH>qualification</TH>
+<TH>progress</TH>
+</TR>
+<TR>
+<TD>DBS</TD>
+<TD>SSC</TD>
+<TD>94</TD>
+</TR>
+<TR>
+<TD>BIRLA College</TD>
+<TD>HSC</TD>
+<TD>80</TD>
+</TR>
+<TR>
+<TD>VIT</TD>
+<TD>BE</TD>
+<TD>9.8</TD>
+</TR>
+</TABLE>
+</DIV>
+</p>
+
+<hr>
+
+<b><h3>Skills:</h3></b>
+<UL>
+<LI>Poetry writing in the theme of human's adversity demeanor.
+<LI>In the top 20% chess players in blitz on lichess.
+
+<LI>Analytical geometry master.</LI>
+</UL>
+<BR>
+
+<hr>
+<p>
+<B><h2>Certificate:</h2></B>
+<div align="center">
+<img src="TCS Certificate.jpeg" alt="Sorry if unavailable. " width="400" height="400">
+</div>
+<br><ul><mark>Machine Learning Certificate</mark></ul></br>
+</p>
+<p><a href="mailto:4swapnil7@gmail.com">Contact me on mail</a></p>
+</BODY>
+</HTML>
+<u
